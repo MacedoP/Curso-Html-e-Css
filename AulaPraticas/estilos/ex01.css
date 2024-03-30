@@ -35,8 +35,7 @@ body{
     color: #fff;
     text-align:center ;
     font-size: 20px;
-    font-variant: small-caps;
-    animation: rodarTexto 3s infinite linear;
+    animation: rodarTexto 5s infinite linear;
     transition: 2s;
     
 }
